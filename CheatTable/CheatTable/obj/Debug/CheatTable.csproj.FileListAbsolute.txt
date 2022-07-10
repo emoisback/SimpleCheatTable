@@ -1,0 +1,13 @@
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\bin\Debug\CheatTable.exe.config
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\bin\Debug\CheatTable.exe
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\bin\Debug\CheatTable.pdb
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\bin\Debug\Memory.dll
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\bin\Debug\Memory.xml
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\obj\Debug\CheatTable.csproj.AssemblyReference.cache
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\obj\Debug\CheatTable.Form1.resources
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\obj\Debug\CheatTable.Properties.Resources.resources
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\obj\Debug\CheatTable.csproj.GenerateResource.cache
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\obj\Debug\CheatTable.csproj.CoreCompileInputs.cache
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\obj\Debug\CheatTable.csproj.CopyComplete
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\obj\Debug\CheatTable.exe
+C:\Users\IRSYAD\source\repos\CheatTable\CheatTable\obj\Debug\CheatTable.pdb
